@@ -5,3 +5,11 @@ cree una base de datos mysql con el nombre ( marvel ). si desea crearla con otro
 
 PASO 2
 ejecutar con el comando npm run dev
+
+##TECNOLOGIAS USADAS
+- Vue Webpack
+- Vuex
+- Vuex persistend
+- socket.io
+- secure ls
+- prerender spa
