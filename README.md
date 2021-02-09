@@ -7,9 +7,8 @@ PASO 2
 ejecutar con el comando npm run dev
 
 ##TECNOLOGIAS USADAS
-- Vue Webpack
-- Vuex
-- Vuex persistend
+- Node js
+- Express
+- Sequelize
+- jwt
 - socket.io
-- secure ls
-- prerender spa
